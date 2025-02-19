@@ -11,8 +11,10 @@ Perkenalkan saya **Muhammad Rifqi Majid**. Saya merupakan seorang Fresh Graduate
 
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/penuliscode">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rifqimajid&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rifqimajid&layout=compact&theme=algolia"/>
+<a href="https://github.com/rifqimajid">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rifqimajid" />
+</a>
+<a href="https://github.com/rifqimajid">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rifqimajid&layout=compact&langs_count=8&card_width=320" />
 </a>
 </p>
